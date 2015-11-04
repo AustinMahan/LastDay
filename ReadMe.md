@@ -22,6 +22,9 @@ Everything you need to know about jQuery, straight from the source.
 [Node School](http://nodeschool.io/)<br>
 For those interested in diving into simple servers. Lots of examples and documenations.
 <br><br>
+[Javascript Source Tutorials](http://www.javascriptsource.com/tutorials/)<br>
+Free scripts, plugins and tutorials covering everything JS.
+<br><br>
 ## Games
 [Code Combat](https://codecombat.com/)<br>
 You'll be hooked if you aren't already.
