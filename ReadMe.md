@@ -31,17 +31,23 @@ Simple git set up and workflow.
 ## Games
 [Code Combat](https://codecombat.com/)<br>
 You'll be hooked if you aren't already.
+<br><br>
 [Code Avengers](https://www.codeavengers.com/javascript/100#1.1)<br>
 For the gamer in all of us.
 
 ## Interactive Tutorials
 [Try jQuery](http://try.jquery.com/)<br>
 This site will let you do more than just TRY jQuery. A lot of great concepts here.
+<br><br>
 [Code School - Try Git](http://try.github.io)<br>
 A fun octocat cartoon helps you connect the dots.
+<br><br>
 [Learn Javascript](http://learn-js.com)<br>
 An interactive JavaScript tutorial with some fun advanced material (like inheritance!)
+<br><br>
 [Codecademy](https://www.codecademy.com/learn)<br>
 A nice collection of interactive ways to learn HTML/CSS, jQuery, JavaScript, and the option to check out other langages and web development skills.
+<br><br>
 [Responsive Design Bootstrap 3 Tutorial](http://www.revillweb.com/tutorials/bootstrap-tutorial/)<br>
 This tutorial is good for not only getting a responsive page up and going, but explaining the details behind some major Bootstrap concepts.
+<br><br>
